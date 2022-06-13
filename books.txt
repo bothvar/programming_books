@@ -1,4 +1,5 @@
-Whichever books you decide to read, please make sure to get the most recent editions! It's very important.
+Whichever books you decide to read, please make sure to get the most recent editions!
+It's very important, as some of these books would otherwise be outdated.
 
 Linux:
 	The Linux Bible, Christopher Negus
