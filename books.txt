@@ -2,6 +2,7 @@ Linux:
 	The Linux Bible, Christopher Negus
 	How Linux Works, Brian Ward
 	Unix and Linux System Administration Handbook, Evi Nemeth et al.
+    Advanced Programming in the UNIX Environment, W. Richard Stevens
 
 C:
 	K&R The C Programming Language,  Brian Kernighan and Dennis Ritchie
