@@ -20,8 +20,8 @@ Assembler:
 Algorithms:
 	Introduction to Algorithms, Thomas H. Cormen et al.
 	Hacker’s Delight, Henry S. Warren
-	Programming Pearls, Jon Bentley
 	Algorithms in C, Parts 1-4, Robert Sedgewick
+	Programming Pearls, Jon Bentley
 
 Compilers:
 	Compilers: Principles, Techniques, and Tools, Alfred Aho et al.
