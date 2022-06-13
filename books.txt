@@ -1,0 +1,30 @@
+Linux:
+	The Linux Bible, Christopher Negus
+	How Linux Works, Brian Ward
+	Unix and Linux System Administration Handbook, Evi Nemeth et al.
+
+C:
+	K&R The C Programming Language,  Brian Kernighan and Dennis Ritchie
+	C Programming: A Modern Approach, K. N. King
+	Modern C, Jens Gustedt
+	Expert C Programming: Deep C Secrets, Peter van der Linden
+	Programming in C, Stephen Kochan
+
+Assembler:
+	Programming from the Ground Up, Jonathan Bartlett
+	Assembly Language Programming with Ubuntu, Ed Jorgensen
+	Hacking: The Art of Exploitation, Jon Erickson
+	Reversing: Secrets of Reverse Engineering, Eldad Eilam
+
+Algorithms:
+	Introduction to Algorithms, Thomas H. Cormen et al.
+	Hacker’s Delight, Henry S. Warren
+	Programming Pearls, Jon Bentley
+	Algorithms in C, Parts 1-4, Robert Sedgewick
+
+Compilers:
+	Compilers: Principles, Techniques, and Tools, Alfred Aho et al.
+
+Misc:
+	The Practice of Programming, Brian W. Kernighan, Rob Pike
+	Data Oriented Design, Richard Fabian
