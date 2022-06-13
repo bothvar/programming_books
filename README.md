@@ -15,7 +15,7 @@
 -	Expert C Programming: Deep C Secrets, Peter van der Linden
 -	Programming in C, Stephen Kochan
 
-#### Assembler:
+#### Assembly:
 -	Programming from the Ground Up, Jonathan Bartlett
 -	Assembly Language Programming with Ubuntu, Ed Jorgensen
 -	Hacking: The Art of Exploitation, Jon Erickson
