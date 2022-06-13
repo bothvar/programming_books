@@ -1,3 +1,5 @@
+Whichever books you decide to read, please make sure to get the most recent editions! It's very important.
+
 Linux:
 	The Linux Bible, Christopher Negus
 	How Linux Works, Brian Ward
