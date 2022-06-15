@@ -2,6 +2,8 @@
 
 **It's very important, as some of these books would otherwise be outdated.**
 
+**Also please note that these are just books I know are good, I'm not saying all other books are bad!**
+
 #### Linux:
 - The Linux Bible, Christopher Negus
 - How Linux Works, Brian Ward
