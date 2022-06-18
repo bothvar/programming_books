@@ -15,7 +15,6 @@
 - C Programming: A Modern Approach, K. N. King
 -	Modern C, Jens Gustedt
 -	Expert C Programming: Deep C Secrets, Peter van der Linden
--	Programming in C, Stephen Kochan
 
 #### Assembly:
 -	Programming from the Ground Up, Jonathan Bartlett
