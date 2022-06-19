@@ -31,13 +31,13 @@ Compilers:
 	Compilers: Principles, Techniques, and Tools, Alfred Aho et al.
 
 Networking:
-    TCP/IP Illustrated, Volume 1: The Protocols, W. Richard Stevens
-    Unix Network Programming, Volume 1: The Sockets Networking API, W. Richard Stevens
+   	TCP/IP Illustrated, Volume 1: The Protocols, W. Richard Stevens
+    	Unix Network Programming, Volume 1: The Sockets Networking API, W. Richard Stevens
 
 Operating Systems:
-    Operating System Concepts, Abraham Silberschatz et al.
-    Modern Operating Systems, Andrew S. Tanenbaum
-    Operating Systems: Three Easy Pieces, Remzi Arpaci-Dusseau, Andrea Arpaci-Dusseau
+   	Operating System Concepts, Abraham Silberschatz et al.
+   	Modern Operating Systems, Andrew S. Tanenbaum
+   	Operating Systems: Three Easy Pieces, Remzi Arpaci-Dusseau, Andrea Arpaci-Dusseau
 
 Misc:
 	The Practice of Programming, Brian W. Kernighan, Rob Pike
