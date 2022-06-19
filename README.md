@@ -15,6 +15,7 @@
 - C Programming: A Modern Approach, K. N. King
 -	Modern C, Jens Gustedt
 -	Expert C Programming: Deep C Secrets, Peter van der Linden
+- C: A Reference Manual, Guy L. Steele Jr.
 
 #### Assembly:
 -	Programming from the Ground Up, Jonathan Bartlett
@@ -24,12 +25,21 @@
 
 #### Algorithms:
 -	Introduction to Algorithms, Thomas H. Cormen et al.
--	Hacker’s Delight, Henry S. Warren
 -	Algorithms in C, Parts 1-4, Robert Sedgewick
+-	Hacker’s Delight, Henry S. Warren
 -	Programming Pearls, Jon Bentley
 
 #### Compilers:
 -	Compilers: Principles, Techniques, and Tools, Alfred Aho et al.
+
+#### Networking:
+- TCP/IP Illustrated, Volume 1: The Protocols, W. Richard Stevens 
+- Unix Network Programming, Volume 1: The Sockets Networking API, W. Richard Stevens
+
+#### Operating Systems:
+- Operating System Concepts, Abraham Silberschatz et al.
+- Modern Operating Systems, Andrew S. Tanenbaum
+- Operating Systems: Three Easy Pieces, Remzi Arpaci-Dusseau, Andrea Arpaci-Dusseau
 
 #### Misc:
 -	The Practice of Programming, Brian W. Kernighan, Rob Pike
