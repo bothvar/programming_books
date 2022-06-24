@@ -42,5 +42,6 @@
 - Operating Systems: Three Easy Pieces, Remzi Arpaci-Dusseau, Andrea Arpaci-Dusseau
 
 #### Misc:
+- Hackers: Heroes of the Computer Revolution, Steven Levy
 -	The Practice of Programming, Brian W. Kernighan, Rob Pike
 -	Data Oriented Design, Richard Fabian
