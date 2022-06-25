@@ -23,11 +23,12 @@
 -	Hacking: The Art of Exploitation, Jon Erickson
 -	Reversing: Secrets of Reverse Engineering, Eldad Eilam
 
-#### Algorithms:
+#### Algorithms & Data Structures:
 -	Introduction to Algorithms, Thomas H. Cormen et al.
 -	Algorithms in C, Parts 1-4, Robert Sedgewick
 -	Hacker’s Delight, Henry S. Warren
 -	Programming Pearls, Jon Bentley
+- The Art of Computer Programming Vols. 1-4a, Donald Knuth (this goes without saying but for completeness' sake I added it)
 
 #### Compilers:
 -	Compilers: Principles, Techniques, and Tools, Alfred Aho et al.
